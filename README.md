@@ -1,0 +1,1 @@
+This repository contains a shell script demonstrating a common error in handling filenames with spaces. The `bug.sh` script fails to process files correctly if the filename contains spaces. The `bugSolution.sh` provides a corrected version that addresses this issue.
